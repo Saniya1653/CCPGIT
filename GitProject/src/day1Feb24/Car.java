@@ -6,6 +6,7 @@ public class Car {
 		// TODO Auto-generated method stub
       int a=10;
       int b=2;
+      int c=35;
 	}
 
 }
